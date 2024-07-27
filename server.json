@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-07-27T15:57:33.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2024-07-27T15:58:33.505Z"
+    },
+    {
+      "description": "TV",
+      "category": "Compras",
+      "price": 3000,
+      "type": "outcome",
+      "createdAt": "2024-07-27T21:06:23.538Z",
+      "id": 3
+    },
+    {
+      "description": "Pizza",
+      "category": "Alimentação",
+      "price": 80,
+      "type": "outcome",
+      "createdAt": "2024-07-27T21:07:38.083Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "category": "Alimentação",
+      "price": 8,
+      "type": "outcome",
+      "createdAt": "2024-07-27T21:18:26.672Z",
+      "id": 5
+    }
+  ]
+}
