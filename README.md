@@ -47,12 +47,12 @@ Abra um terminal e execute o comando:
 npm run dev:server
 ```
 
-### 5. Iniciar o Frontend
+### 4. Iniciar o Frontend
 Em outro terminal, execute o comando:
 
 ```bash
 npm run dev
 ```
 
-### 6. Acessar a Aplicação
+### 5. Acessar a Aplicação
 Abra o navegador e acesse http://localhost:5173 para visualizar o front-end da aplicação em funcionamento.
